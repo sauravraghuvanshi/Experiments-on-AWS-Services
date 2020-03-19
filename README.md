@@ -7,9 +7,9 @@ List of ExperimentS:-
     It is just an introduction on AWS different services.
      
  ## 2)AWS EC2 instance creation:
-    In this experiment i given step-by-step procedure to how to configure AWS Elastic Compute Cloud(EC2) instance with Screenshots of each     step.
+    In this experiment i given step-by-step procedure to how to configure AWS Elastic Compute Cloud(EC2) instance with Screenshots of each step.
      
  ## 3)AWS EBS Creation:
-    In this experiment i given step-by-step procedure to how to configure AWS Elastic Block Storage(EBS) instance with Screenshots of each     step.
+    In this experiment i given step-by-step procedure to how to configure AWS Elastic Block Storage(EBS) instance with Screenshots of each step.
     
  
