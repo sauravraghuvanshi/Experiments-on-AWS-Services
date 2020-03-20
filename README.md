@@ -11,5 +11,7 @@ List of ExperimentS:-
      
  ## 3)AWS EBS Creation:
     In this experiment i given step-by-step procedure to how to configure AWS Elastic Block Storage(EBS) instance with Screenshots of each step.
-    
+ ## 4)AWS S3 bucket Creation
+      In this experiment i given step-by-step procedure to how to configure AWS Simple Storage Service(S3) instance with Screenshots of each step.
+   
  
