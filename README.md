@@ -1,14 +1,19 @@
 # Experiment-on-AWS-Services:
 This repository contain step by step proceduce of how to configure different services on AWS.
 
-List of ExperimentS:-
-### 1)Introduction to AWS:
-It is just an introduction on AWS different services.    
-### 2)AWS EC2 instance creation:
-In this experiment i given step-by-step procedure to how to configure AWS Elastic Compute Cloud(EC2) instance with Screenshots of each step.    
-### 3)AWS EBS Creation:
-In this experiment i given step-by-step procedure to how to configure AWS Elastic Block Storage(EBS) instance with Screenshots of each step.
-### 4)AWS S3 bucket Creation
- In this experiment i given step-by-step procedure to how to configure AWS Simple Storage Service(S3) instance with Screenshots of each step.
+## List of Experiment:-
+
+### 1) Introduction to AWS:    
+### 2) AWS EC2.    
+### 3) AWS EBS.
+### 4) AWS S3 bucket.
+### 5) Introduction to IAM in AWS.
+### 6) Create an Amazon Elastic Block Store (EBS) volume, attach it to an Amazon EC2.
+### 7) AWS Lambda.
+### 8) Dropbox- creation and usage [SaaS]
+### 9) Create and manage a LAMP stack using Amazon EC2 Instance.
+### 10) AWS Simple Notification Service
+
+
 
  
