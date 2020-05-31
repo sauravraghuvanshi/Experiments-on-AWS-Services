@@ -12,7 +12,9 @@ This repository contain step by step proceduce of how to configure different ser
 ### 7) AWS Lambda.
 ### 8) Dropbox- creation and usage [SaaS]
 ### 9) Create and manage a LAMP stack using Amazon EC2 Instance.
-### 10) AWS Simple Notification Service
+### 10) AWS Simple Notification Service.
+
+**Above all experiments are step-by-step procedure with screenshots of how to avail these AWS services. By following each step anyone will will easily complete experiment and understand each services.***
 
 
 
